@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
+
 public class RippleEffect : MonoBehaviour
 {
     public AnimationCurve waveform = new AnimationCurve(

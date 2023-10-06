@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+
 public class BetterJumping : MonoBehaviour
 {
     private Rigidbody2D rb;

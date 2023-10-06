@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class Collision : MonoBehaviour
 {
-
     [Header("Layers")]
     public LayerMask groundLayer;
 

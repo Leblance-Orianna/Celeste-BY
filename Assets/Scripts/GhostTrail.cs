@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 using DG.Tweening;
 
+
 public class GhostTrail : MonoBehaviour
 {
     private Movement move;
